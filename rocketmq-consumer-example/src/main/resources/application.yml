@@ -1,0 +1,7 @@
+rocketmq:
+  consumer:
+    namesrv_addr:
+    accessKey:
+    secretKey:
+    messageKey:
+    instanceId:
